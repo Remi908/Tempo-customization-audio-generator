@@ -16,5 +16,12 @@ setup(
         'torchaudio',
         'tqdm',
         'wandb',
+        'numpy',
+        'librosa',
+        'soundfile',
+        'pretty_midi',
+        'matplotlib',
+        'numba',
+        'Pillow',
     ],
 )

@@ -103,3 +103,19 @@ dataset_cache/
 .vscode/
 .idea/
 .DS_Store
+
+# Dataset and generated audio
+*.wav
+*.mid
+*.midi
+
+# SoundFonts
+*.sf2
+*.sf3
+
+# Model D outputs
+model_d_30second_generation*/
+model_d_tempo_evaluation*/
+model_d_*checkpoints/
+outputs/
+results/
